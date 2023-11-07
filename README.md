@@ -11,7 +11,10 @@ Read more below.
 
 Initial thoughts:
 
-1. get data from Riot API | 2. design and write NN | 3. train | 4. deploy using Overwolf framework
+1. get data from Riot API
+2. design and write NN
+3. feed data and train
+4. deploy using Overwolf framework
 
 TODO:
 Study to use Riot API
