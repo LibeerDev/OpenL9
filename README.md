@@ -21,6 +21,7 @@ How can OpenL9 be useful?
 1. Improve recall timers based on high elo data and game state context.
 2. Analyze proactivity and usefulness on the map.
 3. (experimental) provide feedback in an LLM way like ChatGPT based on context.
+4. Give paths for the player to improve, not just show data without understanding it
 
 TODO:
 1. Study how to use Riot API
