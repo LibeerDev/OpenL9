@@ -1,5 +1,5 @@
 # OpenL9
-A specialized ML model for playing Kassadin
+A free and open source specialized ML model for playing Kassadin
 
 RiftWalk™ technology
 
