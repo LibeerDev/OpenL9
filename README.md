@@ -23,4 +23,5 @@ How can OpenL9 be useful?
 3. (experimental) provide feedback in an LLM way like ChatGPT based on context.
 
 TODO:
-Study to use Riot API
+1. Study how to use Riot API
+2. Research what NN model to use
