@@ -1,7 +1,7 @@
 # OpenL9
 A free and open source specialized ML model for playing Kassadin
 
-RiftWalk™ technology
+Built upon cutting-edge RiftWalk™ technology
 
 Sell all your life savings and buy NVIDIA GPUs
 
