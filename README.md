@@ -1,7 +1,7 @@
 # OpenL9
 A free and open source specialized ML model for analyzing Kassadin gameplay that gives you feedback.
 
-Built on cutting-edge R i f t W a l k ™ technology /s
+Built on cutting-edge R i f t W a l k ™ technology
 
 A stupid but ambitious project to learn AI using Python.
 
