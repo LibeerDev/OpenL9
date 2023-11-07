@@ -1,5 +1,5 @@
 # OpenL9
-A free and open source specialized ML model for analyzing Kassadin gameplay.
+A free and open source specialized ML model for analyzing Kassadin gameplay that gives you feedback.
 
 Built upon cutting-edge RiftWalk™ technology
 
