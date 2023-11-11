@@ -3,7 +3,7 @@ A free and open source specialized ML model for analyzing Kassadin gameplay that
 
 Built on cutting-edge R i f t W a l k ™ technology
 
-A stupid but ambitious project to learn ML using Python.
+A stupid but ambitious project to practice ML using Python.
 
 Read more below.
 
